@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=
+comment0.target=StatusBoard()
+comment1.params=score\ lives
+comment1.target=void\ updateStatus(int,\ int)
+numComments=2
